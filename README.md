@@ -23,3 +23,7 @@ react, html, css, javascript, bootstrap
 
 ## Library used
 axios, bootstrap, react-debounce-input, react-redux @reduxjs/toolkit, react-router-dom, sass
+
+## Screenshots
+![Search Product](./docs/page_search.png)
+![Cart](./docs/page_cart.png)
